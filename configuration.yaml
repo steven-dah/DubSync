@@ -1,0 +1,16 @@
+paths:
+
+  audios: "audios"
+  ffmpeg: "ffmpeg"
+  demucs: "demucs"
+  demucs_wav: "demucs.wav"
+  segments: "segments"
+  dubbed: "dubbed"
+  videos: "videos"
+  latentsync: "LatentSync"
+  concat: "concat.txt"
+
+models:
+
+  whisper: "medium"
+  demucs: "htdemucs"
